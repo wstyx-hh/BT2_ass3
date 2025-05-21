@@ -31,8 +31,8 @@ This is a **local AI assistant** that can answer questions about the Constitutio
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/constitution-ai-assistant.git
-cd constitution-ai-assistant
+git clone https://github.com/wstyx-hh/BT2_ass3.git
+cd BT2_ass3
 ```
 
 ### 2. Install dependencies
@@ -50,7 +50,6 @@ ollama serve
 ```
 
 > ⚠️ **Note:** The `llama3` model requires at least **6 GB of free RAM**.  
-> If your system has less memory, consider using a lighter model like `gemma:2b`.
 
 ### 4. Run the Streamlit app
 
@@ -78,6 +77,11 @@ Here are some questions you can ask the assistant:
 - [Streamlit](https://streamlit.io/)
 
 ---
+## Developers 
+- [Danial Yerzhigit]( https://github.com/riqqer ) 
+- [Nuraiym Sadyk]( https://github.com/wstyx-hh ) 
+- [Diana Abish]( https://github.com/hsibAD )
+
 
 ## 📄 License
 
